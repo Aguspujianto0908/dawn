@@ -1,0 +1,13 @@
+{
+  "telegram_bot_token": "api bot father",
+  "telegram_chat_id": "chat id kalian",
+  "use_telegram": true,
+  "use_proxy": false,
+  "poll_interval": 300,
+  "accounts": [
+    {
+      "email": "email",
+      "token": "token berear"
+    }
+  ]
+ } 
